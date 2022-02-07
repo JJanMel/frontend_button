@@ -1,0 +1,9 @@
+#welcome {
+    border-radius: 8px;
+    font-size: 18;
+    padding: 10px;
+    background-color: rgb(100,189,95);
+    border-color: rgb(100,189,95);
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
